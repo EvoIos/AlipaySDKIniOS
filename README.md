@@ -1,9 +1,6 @@
 # AlipaySDKIniOS
 
-[![CI Status](http://img.shields.io/travis/zhenglanchun/AlipaySDKIniOS.svg?style=flat)](https://travis-ci.org/zhenglanchun/AlipaySDKIniOS)
-[![Version](https://img.shields.io/cocoapods/v/AlipaySDKIniOS.svg?style=flat)](http://cocoapods.org/pods/AlipaySDKIniOS)
-[![License](https://img.shields.io/cocoapods/l/AlipaySDKIniOS.svg?style=flat)](http://cocoapods.org/pods/AlipaySDKIniOS)
-[![Platform](https://img.shields.io/cocoapods/p/AlipaySDKIniOS.svg?style=flat)](http://cocoapods.org/pods/AlipaySDKIniOS)
+ 
 
 ## Example
 

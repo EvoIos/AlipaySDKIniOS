@@ -1,6 +1,0 @@
-use_frameworks!
-target 'AlipaySDKIniOS_Tests' do
-  pod 'AlipaySDKIniOS', :path => '../'
-  
-  
-end
