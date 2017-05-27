@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/EvoIos/AlipaySDKIniOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhenglanchun' => 'zlanchun@icloud.com' }
+  s.author           = { 'zhenglanchun' => 'zlanchun@gmail.com' }
   s.source           = { :git => 'https://github.com/EvoIos/AlipaySDKIniOS.git', :tag => 'v15.2.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
